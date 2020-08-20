@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Bass
+* Guitar
+  * Classical Guitar
+  * Electric Guitar
+  * Resonator Guitar
+* Mandolin
+* Banjo
